@@ -1,0 +1,15 @@
+{
+  "name": "task_crud",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/config/server.js"
+  },
+  "author": "Lohan Batista",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.5"
+  }
+}
